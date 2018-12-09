@@ -17,9 +17,7 @@ In this supplemental classwork, you will explore the differences between ```pyth
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+Really exciting to have MatLab now. Haven't used it but I am looking forward to exploring it more over break when all these finals aren't dangling directly in front of me. It did take up alot of space, which was pretty unattractice but I'll get over it. I do need to get an external hard drive though, that could solve this issue. Thank you for reading this, I hope you enjoyed by thoughts. All the best to you this week, sleep more than I do please!
 
 ## Honor Pledge
 
